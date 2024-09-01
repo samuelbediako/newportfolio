@@ -20,3 +20,10 @@ bars.addEventListener("click",()=>{
     }
     
 })
+
+responsiveNav.addEventListener("click", ()=>{
+    responsiveNav.style.top = -1000+"px"
+        show = !show
+        bars.classList.remove("fa-x")
+        bars.classList.add("fa-bars")
+})
