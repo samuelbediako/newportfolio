@@ -157,6 +157,7 @@ ul li:hover ul.dropdown {
   background-position: top;
   background-size: cover;
   position: relative;
+  background-color: #0d011b;
 }
 
 .page1-overflow {
