@@ -409,7 +409,7 @@ ul li:hover ul.dropdown {
 .work-title h1 {
   text-transform: capitalize;
   font-size: 3rem;
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
   -webkit-text-stroke: 1px black;
   color: transparent;
 }
@@ -465,7 +465,7 @@ ul li:hover ul.dropdown {
 .work1-over h1 {
   color: #fff;
   font-size: 3rem;
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .work1-over p {
   color: #fff;
@@ -508,7 +508,7 @@ ul li:hover ul.dropdown {
 .work2-over h1 {
   color: #fff;
   font-size: 3rem;
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .work2-over p {
   color: #fff;
@@ -550,7 +550,7 @@ ul li:hover ul.dropdown {
 .work3-over h1 {
   color: #fff;
   font-size: 3rem;
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .work3-over p {
   color: #fff;
