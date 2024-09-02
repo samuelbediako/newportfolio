@@ -8,6 +8,26 @@ html{
     scroll-behavior: smooth;
 }
 
+.loader{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 10;
+    background-color: rgb(233, 224, 224);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s ease-in-out;
+
+    img{
+        width: 70px;
+        height: 70px;
+        object-fit: cover;
+    }
+}
+
 nav {
   display: flex;
   align-items: center;
