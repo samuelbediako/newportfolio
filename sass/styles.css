@@ -403,6 +403,29 @@ ul li:hover ul.dropdown {
   position: relative;
 }
 
+.tech-stack {
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 25px;
+  gap: 20px;
+}
+.tech-stack .fa-html5 {
+  color: tomato;
+}
+.tech-stack .fa-css3-alt {
+  color: blue;
+}
+.tech-stack .fa-js {
+  color: gold;
+}
+.tech-stack .fa-php {
+  color: blue;
+}
+
 .work1-over {
   width: 100%;
   height: 100%;
@@ -416,6 +439,7 @@ ul li:hover ul.dropdown {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
 .work1-over h1 {
   color: #fff;
@@ -458,6 +482,7 @@ ul li:hover ul.dropdown {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
 .work2-over h1 {
   color: #fff;
@@ -499,6 +524,7 @@ ul li:hover ul.dropdown {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
 .work3-over h1 {
   color: #fff;
